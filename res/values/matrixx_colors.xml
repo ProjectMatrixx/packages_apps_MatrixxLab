@@ -24,4 +24,7 @@
     <color name="matrixx_text_color_primary_light">#d8000000</color>
     <color name="matrixx_text_color_secondary">@color/matrixx_text_color_secondary_light</color>
     <color name="matrixx_text_color_secondary_light">#66000000</color>
+
+    <!-- Status bar/ClockChip -->
+    <color name="option_border_default">#5f6368</color>
 </resources>
