@@ -56,6 +56,12 @@
             android:defaultValue="true" />
 
         <com.matrixx.settings.preferences.SystemSettingSwitchPreference
+            android:key="qs_split_shade"
+            android:title="@string/qs_split_shade_title"
+            android:summary="@string/qs_split_shade_summary"
+            android:defaultValue="false" />
+
+        <com.matrixx.settings.preferences.SystemSettingSwitchPreference
             android:key="qs_compact_media_player_mode"
             android:title="@string/qs_compact_media_player_mode_title"
             android:summary="@string/qs_compact_media_player_mode_summary"
