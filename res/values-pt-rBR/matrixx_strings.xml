@@ -51,54 +51,54 @@
     <string name="matrixx_telegram_title">Matrixx community</string>
     <string name="matrixx_telegram_summary">Estamos no telegram, acompanhe!</string>
     <string name="matrixx_update_title">Atualizações</string>
-    <string name="matrixx_update_summary">Check and download latest update</string>
+    <string name="matrixx_update_summary">Verifique e instale os últimos lançamentos</string>
     <string name="matrixx_legal">Matrixx legal</string>
     <string name="matrixx_legal_desc">Legal terms of use</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="dialog_color_picker">Seletor de cores</string>
+    <string name="press_color_to_apply">Pressione a cor abaixo para aplicar</string>
+    <string name="set">Definir</string>
+    <string name="color_default">Padrão</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">por padrão</string>
+    <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id="v">%s</xliff:g>\n Toque e segure para definir</string>
+    <string name="custom_seekbar_default_value_is_set">O valor padrão está definido</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="discard_changes">Discard changes</string>
-    <string name="never">Never</string>
-    <string name="always">Always</string>
-    <string name="caution">Caution</string>
-    <string name="delete">Delete</string>
-    <string name="delete_message">Remove selected item?</string>
-    <string name="choose_app">Choose app</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
-    <string name="accent_color">Accent color</string>
-    <string name="notification_color">Notification color</string>
-    <string name="wallpaper_color">Wallpaper color</string>
-    <string name="rainbow_color">Rainbow color</string>
-    <string name="custom_color">Custom color</string>
-    <string name="restart_systemui">Restart SystemUI for change to take effect!</string>
-    <string name="default_value">Default</string>
-    <string name="search_apps">Search apps</string>
-    <string name="apply">Apply</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="discard_changes">Descartar mudanças</string>
+    <string name="never">Nunca</string>
+    <string name="always">Sempre</string>
+    <string name="caution">Cuidado</string>
+    <string name="delete">Deletar</string>
+    <string name="delete_message">Remover o “item” selecionado?</string>
+    <string name="choose_app">Escolha o aplicativo</string>
+    <string name="enable">Habilitar</string>
+    <string name="disable">Desabilitar</string>
+    <string name="accent_color">Cor de destaque</string>
+    <string name="notification_color">Cor de notificação</string>
+    <string name="wallpaper_color">Cor do papel de parede</string>
+    <string name="rainbow_color">Cores do arco-íris</string>
+    <string name="custom_color">Cor personalizada</string>
+    <string name="restart_systemui">Reinicie a “interface” para que a alteração entre em vigor!</string>
+    <string name="default_value">Padrão</string>
+    <string name="search_apps">Procurar apps</string>
+    <string name="apply">Aplicar</string>
     <!-- SystemUI restart dialog -->
-    <string name="systemui_restart_title">SystemUI restart required</string>
-    <string name="systemui_restart_message">For changes to take effect, a SystemUI restart is required. Restart SystemUI now?</string>
-    <string name="systemui_restart_yes">Yes</string>
-    <string name="systemui_restart_not_now">Not now</string>
-    <string name="systemui_restart_process">Restarting SystemUI to apply changes...</string>
+    <string name="systemui_restart_title">É necessário reiniciar a “interface” do sistema</string>
+    <string name="systemui_restart_message">Para que as alterações entrem em vigor, é necessário reiniciar o SystemUI. Reiniciar o SystemUI agora?</string>
+    <string name="systemui_restart_yes">Sim</string>
+    <string name="systemui_restart_not_now">Não agora</string>
+    <string name="systemui_restart_process">Reiniciando a “interface” do sistema para aplicar as alterações...</string>
     <!-- Units -->
     <string name="unit_hz">hz</string>
-    <string name="unit_milliseconds">milliseconds</string>
-    <string name="unit_seconds">seconds</string>
+    <string name="unit_milliseconds">milissegundos</string>
+    <string name="unit_seconds">segundos</string>
     <!-- Miscellaneous -->
-    <string name="miscellaneous_spoofing_category">Spoofing</string>
+    <string name="miscellaneous_spoofing_category">Falsificação</string>
     <string name="miscellaneous_developer_options_category">Developer options</string>
     <string name="miscellaneous_pairip_activity_block_title">Block PairIP license verification</string>
     <string name="miscellaneous_pairip_activity_block_summary">Prevent Play Store apps from launching the \"Get this app from Play\" screen when not installed by the Play Store</string>
