@@ -81,7 +81,7 @@
     <string name="accent_color">Accent color</string>
     <string name="notification_color">Notification color</string>
     <string name="wallpaper_color">Wallpaper color</string>
-    <string name="rainbow_color">Rainbow color</string>
+    <string name="rainbow_color">Color arcoíris</string>
     <string name="custom_color">Custom color</string>
     <string name="restart_systemui">Reinicie UI del sistema para que los cambios surtan efecto</string>
     <string name="default_value">Default</string>
@@ -197,8 +197,8 @@
     <string name="battery_bar_animate_color">Charging animation color</string>
     <!-- Custom logo -->
     <string name="status_bar_logo_title">Logo</string>
-    <string name="status_bar_logo_summary">Display a custom logo on the status bar</string>
-    <string name="status_bar_logo_position_title">Logo position</string>
+    <string name="status_bar_logo_summary">Mostrar un logotipo personalizado en la barra de estado</string>
+    <string name="status_bar_logo_position_title">Posición de logo</string>
     <string name="status_bar_logo_position_left">Left side</string>
     <string name="status_bar_logo_position_right">Right side</string>
     <string name="status_bar_logo_style_title">Logo style</string>
@@ -251,13 +251,13 @@
     <string name="qs_header_image_summary">Select QS background header image</string>
     <string name="qs_header_daylight_pack_title">Header image collection</string>
     <string name="qs_header_shadow_title">Header image shadow</string>
-    <string name="qs_header_shadow_summary">For better visibility on bright images</string>
+    <string name="qs_header_shadow_summary">Para una mejor visibilidad en imágenes brillantes</string>
     <string name="qs_header_static_provider_title">Static image</string>
     <string name="qs_header_daylight_provider_title">Image collection</string>
     <string name="qs_header_file_provider_title">Custom image</string>
     <string name="qs_header_image_processing">Processing image...</string>
     <string name="qs_header_image_success">Header image saved successfully</string>
-    <string name="qs_header_image_error">Failed to save header image</string>
+    <string name="qs_header_image_error">No se pudo guardar la imagen de encabezado</string>
     <string name="qs_header_provider_title">Header provider</string>
     <string name="qs_header_browse_title">Browse installed headers</string>
     <string name="qs_header_browse_summary">Browse all available header collections</string>
@@ -315,7 +315,7 @@
     <string name="fp_success_vibrate_title">Fingerprint authentication vibration</string>
     <string name="fp_success_vibrate_summary">Vibrate when fingerprint authentication is successful</string>
     <string name="fp_error_vibrate_title">Fingerprint error vibration</string>
-    <string name="fp_error_vibrate_summary">Vibrate when fingerprint authentication fails</string>
+    <string name="fp_error_vibrate_summary">Vibrar cuando falle la autenticación por huella dactilar</string>
     <!-- Swap capacitive keys -->
     <string name="swap_capacitive_keys_title">Swap capacitive buttons</string>
     <string name="swap_capacitive_keys_summary">Swap the order of recents and back buttons</string>
@@ -323,7 +323,7 @@
     <string name="anbi_title">Accidental touch</string>
     <string name="anbi_summary">Prevent interaction with navigation buttons while the screen is being touched</string>
     <!-- Notification channels -->
-    <string name="channel_light_settings_name">Light settings preview</string>
+    <string name="channel_light_settings_name">Vista previa de los ajustes de iluminación</string>
     <!-- Notification light dialogs -->
     <string name="edit_light_settings">Edit light settings</string>
     <string name="pulse_speed_title">Pulse length and speed</string>
@@ -349,7 +349,7 @@
     <string name="light_brightness_zen">Do Not Disturb</string>
     <!-- Battery light settings -->
     <string name="light_brightness_category">Light brightness settings</string>
-    <string name="battery_light_title">Battery light</string>
+    <string name="battery_light_title">Luz de la batería</string>
     <string name="battery_light_enable_title">Enable battery light</string>
     <string name="battery_light_summary">Configure led color based on battery level and status</string>
     <string name="battery_low_pulse_title">Pulse if battery low</string>
