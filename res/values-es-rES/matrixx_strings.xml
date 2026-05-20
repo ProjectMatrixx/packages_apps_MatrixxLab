@@ -15,15 +15,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Matrixx lab -->
-    <string name="matrixx_lab_title">Matrixx Lab</string>
-    <string name="matrixx_lab_summary">Redefining the Fabric of Customization</string>
-    <string name="qs_panel_options_title">Quick Settings</string>
-    <string name="qs_panel_options_summary">Quick settings style, and customization</string>
-    <string name="button_options_title">Buttons</string>
+    <string name="matrixx_lab_title">Laboratorio Matrixx</string>
+    <string name="matrixx_lab_summary">Redefiniendo la personalización de fábrica</string>
+    <string name="qs_panel_options_title">Ajustes rápidos</string>
+    <string name="qs_panel_options_summary">Ajustes rápidos estilo y personalización</string>
+    <string name="button_options_title">Botones</string>
     <string name="button_options_summary">Powermenu &amp; button settings</string>
-    <string name="ui_options_title">User Interface</string>
+    <string name="ui_options_title">Interfaz de usuario</string>
     <string name="ui_options_summary">Various User interface customization</string>
-    <string name="sound_options_title">Sound</string>
+    <string name="sound_options_title">Sonido</string>
     <string name="sound_options_title_summary">Volume Panel &amp; haptics</string>
     <string name="misc_title">Miscellaneous</string>
     <string name="misc_options_title">Misc</string>
@@ -33,15 +33,15 @@
     <string name="notifications_options_title">Notifications</string>
     <string name="notifications_options_summary">Heads up &amp; Other customizations...</string>
     <string name="about_options_title">About</string>
-    <string name="about_options_summary">Know about this Matrixx</string>
+    <string name="about_options_summary">Conoce sobre Matrixx</string>
     <string name="lockscreen_options_title">Lockscreen</string>
     <string name="lockscreen_options_title_summary">Customize lockscreen clock and many more...</string>
-    <string name="ui_title">User Interface</string>
+    <string name="ui_title">Interfaz de usuario</string>
     <!-- About Matrixx -->
     <string name="about_matrixx">About Matrixx</string>
     <string name="team_matrixx">Team Matrixx</string>
     <string name="team_matrixx_desc">Hey! We are Team Matrixx</string>
-    <string name="devices_summary">Official devices list</string>
+    <string name="devices_summary">Lista de dispositivos Oficial</string>
     <string name="matrixx_devices_title">Official Devices</string>
     <string name="get_changelogs_title">Latest changelog</string>
     <string name="get_changelogs_summary">Check latest changes</string>
@@ -50,7 +50,7 @@
     <string name="matrixx_source_summary">We love open source, check us out</string>
     <string name="matrixx_telegram_title">Matrixx community</string>
     <string name="matrixx_telegram_summary">We are on telegram. Join us!</string>
-    <string name="matrixx_update_title">Updates</string>
+    <string name="matrixx_update_title">Actualizaciones</string>
     <string name="matrixx_update_summary">Check and download latest update</string>
     <string name="matrixx_legal">Matrixx legal</string>
     <string name="matrixx_legal_desc">Legal terms of use</string>
@@ -62,13 +62,13 @@
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
+    <string name="custom_seekbar_default_value_to_set">Valor predeterminado: <xliff:g id="v">%s</xliff:g>\nMantén presionado para configurar</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
     <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
+    <string name="save">Guardado</string>
     <string name="discard_changes">Discard changes</string>
     <string name="never">Never</string>
     <string name="always">Always</string>
@@ -83,7 +83,7 @@
     <string name="wallpaper_color">Wallpaper color</string>
     <string name="rainbow_color">Rainbow color</string>
     <string name="custom_color">Custom color</string>
-    <string name="restart_systemui">Restart SystemUI for change to take effect!</string>
+    <string name="restart_systemui">Reinicie UI del sistema para que los cambios surtan efecto</string>
     <string name="default_value">Default</string>
     <string name="search_apps">Search apps</string>
     <string name="apply">Apply</string>
@@ -101,7 +101,7 @@
     <string name="miscellaneous_spoofing_category">Spoofing</string>
     <string name="miscellaneous_developer_options_category">Developer options</string>
     <string name="miscellaneous_pairip_activity_block_title">Block PairIP license verification</string>
-    <string name="miscellaneous_pairip_activity_block_summary">Prevent Play Store apps from launching the \"Get this app from Play\" screen when not installed by the Play Store</string>
+    <string name="miscellaneous_pairip_activity_block_summary">Evitar que las aplicaciones de la Play Store abran la pantalla, Obtener esta aplicación de Google Play cuando no fueron instaladas desde la Play Store</string>
     <!-- Status bar -->
     <string name="status_bar_icons_category">Icons</string>
     <string name="status_bar_tuner_title">Status bar tuner</string>
@@ -136,7 +136,7 @@
     <string name="status_bar_clock_auto_hide_hdur_summary">Number of seconds to hide clock</string>
     <string name="status_bar_clock_auto_hide_sdur_title">Show duration</string>
     <string name="status_bar_clock_auto_hide_sdur_summary">Number of seconds to wait before hiding clock</string>
-    <string name="status_bar_clock_auto_hide_launcher_title">Auto hide on launcher</string>
+    <string name="status_bar_clock_auto_hide_launcher_title">Ocultar automáticamente en el lanzador</string>
     <string name="status_bar_clock_auto_hide_launcher_summary">Hide clock if launcher is visible</string>
     <string name="status_bar_clock_chip_title">Clock background chip</string>
     <string name="status_bar_clock_chip_summary">Select custom background chip behind clock</string>
@@ -146,8 +146,8 @@
     <string name="solid_gradient">Solid Gradient side</string>
     <string name="solid_gradient_corner">Solid accent gradient sharp</string>
     <string name="solid_gradient_void">Gradient Void</string>
-    <string name="solid_gradient_neumorph">Neumorph gradient</string>
-    <string name="solid_gradient_stroke">Sharp gradient stroke</string>
+    <string name="solid_gradient_neumorph">Gradiente Neumorfismo</string>
+    <string name="solid_gradient_stroke">Trazo de gradiente pronunciado</string>
     <string name="solid_accent_transperent">Accent transperent</string>
     <string name="solid_gradient_light">Gradient light</string>
     <string name="solid_gradient_shape">Sharp gradient corner</string>
@@ -170,8 +170,8 @@
     <string name="status_bar_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
     <string name="status_bar_date_string_edittext_summary">Enter string</string>
     <string name="status_bar_clock_date_position">Date position</string>
-    <string name="status_bar_clock_date_right">Right of time</string>
-    <string name="status_bar_clock_date_left">Left of time</string>
+    <string name="status_bar_clock_date_right">Fecha de lado derecho</string>
+    <string name="status_bar_clock_date_left">Fecha de lado izquierdo</string>
     <!-- Battery bar -->
     <string name="battery_bar_title">Battery bar</string>
     <string name="battery_bar_summary">Display and customize battery bar above status bar</string>
