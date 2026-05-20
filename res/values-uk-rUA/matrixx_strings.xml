@@ -86,7 +86,7 @@
     <string name="restart_systemui">Restart SystemUI for change to take effect!</string>
     <string name="default_value">Default</string>
     <string name="search_apps">Search apps</string>
-    <string name="apply">Apply</string>
+    <string name="apply">Застосувати</string>
     <!-- SystemUI restart dialog -->
     <string name="systemui_restart_title">SystemUI restart required</string>
     <string name="systemui_restart_message">For changes to take effect, a SystemUI restart is required. Restart SystemUI now?</string>
