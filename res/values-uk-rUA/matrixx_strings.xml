@@ -713,8 +713,8 @@ sensors are subject to hardware compatibility. Enabling sensors for ambient disp
     <string name="lockscreen_weather_humidity_info_title">Humidity info</string>
     <string name="lockscreen_weather_humidity_info_summary">Display current humidity in percentage</string>
     <!-- Smartspace -->
-    <string name="lockscreen_smartspace_title">Smartspace</string>
-    <string name="lockscreen_smartspace_summary">Show Google Smartspace when available</string>
+    <string name="lockscreen_smartspace_title">Розумний простір</string>
+    <string name="lockscreen_smartspace_summary">Показувати розумний простір Google за наявності</string>
     <!-- Carrier name on lockscreen -->
     <string name="lockscreen_show_carrier_title">Carrier name</string>
     <string name="lockscreen_show_carrier_summary">Display carrier name in the status bar</string>
@@ -1235,7 +1235,7 @@ sensors are subject to hardware compatibility. Enabling sensors for ambient disp
     <string name="ls_clock_title">Lockscreen Clocks</string>
     <string name="ls_clock_summary">Set your clock style and widgets</string>
     <string name="clock_styles_disclaimer_title">Before you continue</string>
-    <string name="clock_styles_disclaimer_message">For the best experience with clock faces and widgets, please make sure to:\n\n• Disable lockscreen Smartspace\n• Disable lockscreen weather\n• Disable the large clock style\n\nYou can find these options in the Lockscreen settings.</string>
+    <string name="clock_styles_disclaimer_message">Для найкращого досвіду роботи з циферблатами годинника та віджетами, будь ласка, переконайтеся, що:\n\n• Вимкніть розумний простір на екрані блокування\n• Вимкніть погоду на екрані блокування\n• Вимкніть стиль великого годинника\n\nВи можете знайти ці опції у налаштуваннях екрана блокування.</string>
     <string name="ls_clock_face_highlight_text">Swipe left or right to preview clock styles</string>
     <!-- Lockscreen Clock Revamp -->
     <string name="ls_clock_custom_font_not_supported">Selected clock does not support custom fonts</string>
