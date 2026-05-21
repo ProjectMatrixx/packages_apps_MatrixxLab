@@ -471,7 +471,7 @@
     <string name="hardware_keys_action_split_screen">Split screen</string>
     <string name="hardware_keys_action_close_app">Kill app</string>
     <string name="hardware_keys_action_play_pause_music">Play/pause music playback</string>
-    <string name="hardware_keys_action_torch">Toggle torch</string>
+    <string name="hardware_keys_action_torch">Фонарик</string>
     <string name="hardware_keys_action_screenshot">Take screenshot</string>
     <string name="hardware_keys_action_volume_panel">Toggle volume panel</string>
     <string name="hardware_keys_action_clear_all_notifications">Clear all notifications</string>
@@ -530,7 +530,7 @@
     <string name="power_menu_title">Power menu</string>
     <string name="power_menu_actions_title">Actions</string>
     <string name="power_menu_actions_summary">Choose which actions are displayed</string>
-    <string name="power_menu_screenshot_title">Screenshot</string>
+    <string name="power_menu_screenshot_title">Скриншот</string>
     <string name="power_menu_screenshot_summary">Long-press for partial screenshot</string>
     <string name="power_menu_onthego_title">On-The-Go mode</string>
     <string name="power_menu_advanced_title">Advanced reboot options</string>
