@@ -16,7 +16,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Matrixx lab -->
     <string name="matrixx_lab_title">Лабораторія Matrixx</string>
-    <string name="matrixx_lab_summary">Redefining the Fabric of Customization</string>
+    <string name="matrixx_lab_summary">Новий погляд на персоналізацію</string>
     <string name="qs_panel_options_title">Швидкі налаштування</string>
     <string name="qs_panel_options_summary">Стиль швидких налаштувань</string>
     <string name="button_options_title">Кнопки</string>
@@ -1573,6 +1573,6 @@ sensors are subject to hardware compatibility. Enabling sensors for ambient disp
     <string name="emoji_style_summary">Choose the system emoji pack without changing text fonts</string>
     <!-- AOD Peek -->
     <string name="doze_peek_title">AOD Peek</string>
-    <string name="doze_peek_summary">Show ambient display briefly when the screen turns off</string>
+    <string name="doze_peek_summary">Коротко показати always-on display при вимкненні екрана</string>
     <string name="doze_peek_duration_title">Peek duration</string>
 </resources>
