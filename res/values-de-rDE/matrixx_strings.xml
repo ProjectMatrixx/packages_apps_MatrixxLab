@@ -1119,9 +1119,6 @@ sensors are subject to hardware compatibility. Enabling sensors for ambient disp
     <!-- Notification count -->
     <string name="statusbar_notif_count_title">Show notification count</string>
     <string name="statusbar_notif_count_summary">Display the number of pending notifications</string>
-    <!-- QS Split Shade -->
-    <string name="qs_split_shade_title">Split Quick settings</string>
-    <string name="qs_split_shade_summary">Swipe down from the left for notifications and right for quick settings</string>
     <!-- In-call feedback -->
     <string name="incall_vibration_category">In-call vibration options</string>
     <string name="incall_vibrate_connect_title">Vibrate on connect</string>
