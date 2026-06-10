@@ -83,7 +83,7 @@
     <string name="wallpaper_color">Цвет обоев</string>
     <string name="rainbow_color">Радужный цвет градиента</string>
     <string name="custom_color">Свой цвет</string>
-    <string name="custom_color_summary">Custom color some clock styles</string>
+    <string name="custom_color_summary">Пользовательский цвет некоторых стилей часов</string>
     <string name="restart_systemui">Перезапустите интерфейс, для применения изменений!</string>
     <string name="default_value">По умолчанию</string>
     <string name="search_apps">Поиск приложений</string>
@@ -384,8 +384,8 @@
     <!-- Data Usage -->
     <string name="quick_settings_data_usage_title">Трафик приложений</string>
     <string name="quick_settings_data_usage_summary">Показывать статистику использования трафика в нижней части быстрых настроек</string>
-    <string name="qs_show_data_usage_title">Show data usage in tiles</string>
-    <string name="qs_show_data_usage_summary">Display data usage information in WiFi and Cellular Quick Settings tiles</string>
+    <string name="qs_show_data_usage_title">Показывать трафик в плитках</string>
+    <string name="qs_show_data_usage_summary">Отображение информации об использовании данных в плитках быстрых настроек WiFi и сотовых сетей</string>
     <!-- Brightness slider haptic feedback -->
     <string name="qs_brightness_slider_haptic_title">Тактильный отклик</string>
     <string name="qs_brightness_slider_haptic_summary">Тактильный отклик при изменении яркости с помощью ползунка яркости</string>
@@ -473,7 +473,7 @@
     <string name="hardware_keys_action_play_pause_music">Играть/пауза музыки</string>
     <string name="hardware_keys_action_torch">Фонарик</string>
     <string name="hardware_keys_action_screenshot">Сделать скриншот</string>
-    <string name="hardware_keys_action_partial_screenshot">Take partial screenshot</string>
+    <string name="hardware_keys_action_partial_screenshot">Снимок части экрана</string>
     <string name="hardware_keys_action_volume_panel">Переключить панель громкости</string>
     <string name="hardware_keys_action_clear_all_notifications">Очистить все уведомления</string>
     <string name="hardware_keys_action_notifications_panel">Переключить панель уведомлений</string>
@@ -854,26 +854,26 @@
     <string name="monet_engine_style_fruit_salad">Фруктовый Салат</string>
     <string name="monet_engine_style_monochromatic">Монохромная</string>
     <!-- Per-palette chroma override -->
-    <string name="chroma_accent1_title">Primary chroma</string>
-    <string name="chroma_accent2_title">Secondary chroma</string>
-    <string name="chroma_accent3_title">Tertiary chroma</string>
-    <string name="chroma_neutral1_title">Neutral chroma</string>
-    <string name="chroma_neutral2_title">Neutral variant chroma</string>
+    <string name="chroma_accent1_title">Первичная хрома</string>
+    <string name="chroma_accent2_title">Вторичная хрома</string>
+    <string name="chroma_accent3_title">Третичная хрома</string>
+    <string name="chroma_neutral1_title">Нейтральная хрома</string>
+    <string name="chroma_neutral2_title">Нейтральный вариант хромы</string>
     <!-- Hue / tone category -->
-    <string name="hue_tone_settings_category">Hue &amp; lightness</string>
+    <string name="hue_tone_settings_category">Оттенок &amp; легкость</string>
     <!-- Hue rotation -->
-    <string name="hue_shift_title">Hue rotation</string>
-    <string name="hue_shift_desc">Rotate the seed color hue. Produces harmonious adjacent hues without changing your seed color manually.</string>
+    <string name="hue_shift_title">Вращение тона:</string>
+    <string name="hue_shift_desc">Поворот семенного оттенка. Создаёт гармоничные прилегающие оттенки без изменения цвета семян вручную.</string>
     <!-- Tone shifts -->
-    <string name="tone_shift_light_title">Lightness bias (light mode)</string>
-    <string name="tone_shift_light_desc">Shift all light-mode colors lighter (+) or darker (−) independent of contrast.</string>
-    <string name="tone_shift_dark_title">Lightness bias (dark mode)</string>
-    <string name="tone_shift_dark_desc">Shift all dark-mode colors lighter (+) or darker (−) independent of contrast.</string>
+    <string name="tone_shift_light_title">Предвзятость света (легкий режим)</string>
+    <string name="tone_shift_light_desc">Сдвинуть все светлые цвета (+) или темнее (−), независимо от контраста.</string>
+    <string name="tone_shift_dark_title">Предвзятость света (темный режим)</string>
+    <string name="tone_shift_dark_desc">Сдвинуть все темные цвета светлее (+) или темнее (−), независимо от контраста.</string>
     <!-- Secondary seed -->
-    <string name="secondary_seed_category">Secondary seed color</string>
-    <string name="use_secondary_seed_title">Enable secondary seed</string>
-    <string name="use_secondary_seed_desc">Drive secondary and tertiary palettes from a separate seed color for two-tone theming.</string>
-    <string name="secondary_seed_color_title">Secondary seed color</string>
+    <string name="secondary_seed_category">Цвет вторичного сида</string>
+    <string name="use_secondary_seed_title">Включить вторичный ключ</string>
+    <string name="use_secondary_seed_desc">Перевести вторичные и третичные палитры из отдельного семенного цвета для двухтонной темы.</string>
+    <string name="secondary_seed_color_title">Цвет вторичного ключа</string>
     <!-- Wallpaper Styles -->
     <string name="wallpaper_settings_category">Стили обоев</string>
     <string name="wallpaper_settings_title">Стили обоев</string>
@@ -1200,7 +1200,7 @@
     <string name="lockscreen_widgets_enabled_title">Включить виджеты экрана блокировки</string>
     <string name="lockscreen_widgets_enabled_summary">Добавить виджеты на экран блокировки</string>
     <string name="lockscreen_display_widgets_title">Виджет с информацией об устройстве</string>
-    <string name="lockscreen_widgets_color_mode_title">Info Widget color mode</string>
+    <string name="lockscreen_widgets_color_mode_title">Режим цвета виджета инфо</string>
     <string name="lockscreen_display_widgets_summary">Показывать виджет информации об устройстве на экране блокировки</string>
     <string name="large_widgets_category_title">Большие виджеты</string>
     <string name="main_custom_widgets1">Большой виджет 1</string>
@@ -1419,12 +1419,12 @@
     <string name="ts_revocation_valid">✓ Допустимы — не отозванные</string>
     <string name="ts_revocation_revoked">&lt;unk&gt; Отозвано (%s)</string>
     <string name="ts_revocation_suspended">⚠️ Приостановлен (%s)</string>
-    <string name="ts_revocation_soft_banned">Soft-banned (Strong Integrity will fail)</string>
+    <string name="ts_revocation_soft_banned">Запрещено (Strong целостность)</string>
     <string name="ts_revocation_network_error">Не удалось получить сервер отзыва</string>
     <string name="ts_revocation_error">Проверка не удалась: %s</string>
-    <string name="ts_revocation_last_checked">Last checked: %1$s</string>
-    <string name="ts_revocation_tap_to_check">Tap to check revocation status</string>
-    <string name="ts_revocation_not_yet_checked">Status not yet checked — tap to check</string>
+    <string name="ts_revocation_last_checked">Последняя проверка: %1$s</string>
+    <string name="ts_revocation_tap_to_check">Нажмите, чтобы проверить статус отзыва</string>
+    <string name="ts_revocation_not_yet_checked">Статус еще не проверен — нажмите для проверки</string>
     <string name="ts_fetch_keybox">Получить официальный ключ</string>
     <string name="ts_fetch_keybox_summary">Скачать ключ с Matrixx серверов</string>
     <string name="ts_fetch_keybox_fetching">Извлечение ключа…</string>
@@ -1432,13 +1432,13 @@
     <string name="ts_fetch_keybox_failed">Не удалось загрузить: %s</string>
     <string name="ts_fetch_keybox_revoked_refetch">Ключ отозван, получение более новой…</string>
     <string name="ts_fetch_keybox_same_file">Ключ уже обновлена</string>
-    <string name="ts_fetch_keybox_blocked">Your keybox is valid — no fetch needed</string>
-    <string name="ts_fetch_keybox_last_fetched">Last fetched: %1$s</string>
-    <string name="ts_fetch_keybox_auto_replaced">Keybox automatically replaced with a valid one</string>
-    <string name="ts_fetch_keybox_soft_banned_refetch">Keybox soft-banned, keeping it and attempting to fetch a better one…</string>
-    <string name="ts_fetch_keybox_no_valid_found">No valid keybox available yet, will retry tomorrow</string>
-    <string name="action_generate">Generate</string>
-    <string name="action_merge">Merge</string>
+    <string name="ts_fetch_keybox_blocked">Ваша клавиатура действительна — не требуется получить</string>
+    <string name="ts_fetch_keybox_last_fetched">Последнее извлечение: %1$s</string>
+    <string name="ts_fetch_keybox_auto_replaced">Ключ автоматически заменяется корректным</string>
+    <string name="ts_fetch_keybox_soft_banned_refetch">Ключ забанен, сохраняя его и пытаясь получить более лучшую…</string>
+    <string name="ts_fetch_keybox_no_valid_found">Нет доступных ключей, повторите попытку завтра</string>
+    <string name="action_generate">Генерировать</string>
+    <string name="action_merge">Объединить</string>
     <!-- Custom clock style -->
     <string name="lockscreen_custom_clock_style_title">Пользовательский стиль часов</string>
     <string name="lockscreen_custom_clock_style_summary">Настроить стиль часов на экране блокировки</string>
@@ -1605,12 +1605,12 @@
     <string name="doze_peek_summary">Показывать ambient display вкратце при выключении экрана</string>
     <string name="doze_peek_duration_title">Длительность пика</string>
     <!-- Themes -->
-    <string name="custom_system_theme_title">Themes store</string>
-    <string name="custom_system_theme_summary">Customize system appearance with themes and icon packs</string>
+    <string name="custom_system_theme_title">Магазин Тем</string>
+    <string name="custom_system_theme_summary">Настройка внешнего вида системы с помощью тем и наборов иконок</string>
     <!-- Statusbar logo color -->
-    <string name="default_string">Default</string>
-    <string name="status_bar_logo_color_title">Color</string>
-    <string name="status_bar_logo_color_default">Default (White)</string>
-    <string name="status_bar_logo_color_accent">Accent</string>
-    <string name="status_bar_logo_color_custom">Custom</string>
+    <string name="default_string">По умолчанию</string>
+    <string name="status_bar_logo_color_title">Цвет</string>
+    <string name="status_bar_logo_color_default">По умолчанию (белый)</string>
+    <string name="status_bar_logo_color_accent">Акцент</string>
+    <string name="status_bar_logo_color_custom">Пользовательский</string>
 </resources>
