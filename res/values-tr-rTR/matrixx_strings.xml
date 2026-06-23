@@ -28,18 +28,18 @@
     <string name="misc_title">Miscellaneous</string>
     <string name="misc_options_title">Misc</string>
     <string name="misc_options_summary">Spoofing, Gaming mode &amp; System settings </string>
-    <string name="statusbar_options_title">Status Bar</string>
+    <string name="statusbar_options_title">Durum Çubuğu</string>
     <string name="statusbar_options_summary">Status bar icon &amp; clock customizations</string>
-    <string name="notifications_options_title">Notifications</string>
+    <string name="notifications_options_title">Bildirimler</string>
     <string name="notifications_options_summary">Heads up &amp; Other customizations...</string>
-    <string name="about_options_title">About</string>
+    <string name="about_options_title">Hakkında</string>
     <string name="about_options_summary">Know about this Matrixx</string>
-    <string name="lockscreen_options_title">Lockscreen</string>
-    <string name="lockscreen_options_title_summary">Customize lockscreen clock and many more...</string>
-    <string name="ui_title">User Interface</string>
+    <string name="lockscreen_options_title">Kilit Ekranı</string>
+    <string name="lockscreen_options_title_summary">Kilit ekranı saati ve daha fazlasını kişiselleştirin...</string>
+    <string name="ui_title">Kullanıcı Arayüzü</string>
     <!-- About Matrixx -->
-    <string name="about_matrixx">About Matrixx</string>
-    <string name="team_matrixx">Team Matrixx</string>
+    <string name="about_matrixx">Matrixx Hakkında</string>
+    <string name="team_matrixx">Matrixx Ekibi</string>
     <string name="team_matrixx_desc">Hey! We are Team Matrixx</string>
     <string name="devices_summary">Official devices list</string>
     <string name="matrixx_devices_title">Official Devices</string>
