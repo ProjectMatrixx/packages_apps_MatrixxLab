@@ -319,9 +319,9 @@
     <string name="swap_capacitive_keys_summary">Son uygulamalar ve geri tuşlarının yerini değiştirin</string>
     <!-- ANBI -->
     <string name="anbi_title">Yanlışlıkla dokunma</string>
-    <string name="anbi_summary">Prevent interaction with navigation buttons while the screen is being touched</string>
+    <string name="anbi_summary">Ekrana dokunulduğunda gezinme tuşları ile etkileşimi önle</string>
     <!-- Notification channels -->
-    <string name="channel_light_settings_name">Light settings preview</string>
+    <string name="channel_light_settings_name">Işık ayarları önizlemesi</string>
     <!-- Notification light dialogs -->
     <string name="edit_light_settings">Edit light settings</string>
     <string name="pulse_speed_title">Pulse length and speed</string>
