@@ -16,17 +16,17 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Matrixx lab -->
     <string name="matrixx_lab_title">Matrixx Lab</string>
-    <string name="matrixx_lab_summary">Redefining the Fabric of Customization</string>
+    <string name="matrixx_lab_summary">Kişiselleştirmenin temelini yeniden tanımlayın</string>
     <string name="qs_panel_options_title">Hızlı Ayarlar</string>
-    <string name="qs_panel_options_summary">Quick settings style, and customization</string>
+    <string name="qs_panel_options_summary">Hızlı ayarlar stili ve özelleştirme</string>
     <string name="button_options_title">Tuşlar</string>
-    <string name="button_options_summary">Powermenu &amp; button settings</string>
+    <string name="button_options_summary">Güç menüsü &amp; Düğme ayarları</string>
     <string name="ui_options_title">Kullanıcı Arayüzü</string>
     <string name="ui_options_summary">Çeşitli kullanıcı arayüzü kişiselleştirmeleri</string>
-    <string name="sound_options_title">Sound</string>
-    <string name="sound_options_title_summary">Volume Panel &amp; haptics</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="misc_options_title">Misc</string>
+    <string name="sound_options_title">Ses</string>
+    <string name="sound_options_title_summary">Ses Paneli &amp; Titreşim</string>
+    <string name="misc_title">Diğer Ayarlar</string>
+    <string name="misc_options_title">Çeşitli</string>
     <string name="misc_options_summary">Spoofing, Gaming mode &amp; System settings </string>
     <string name="statusbar_options_title">Durum Çubuğu</string>
     <string name="statusbar_options_summary">Status bar icon &amp; clock customizations</string>
