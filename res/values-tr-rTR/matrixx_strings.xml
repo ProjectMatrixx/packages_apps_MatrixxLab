@@ -212,40 +212,40 @@
     <string name="status_bar_logo_style_batman_tdk">Batman Kara Şövalye</string>
     <string name="status_bar_logo_style_beats">Beats</string>
     <string name="status_bar_logo_style_biohazard">Biohazard</string>
-    <string name="status_bar_logo_style_blackberry">BlackBerry</string>
-    <string name="status_bar_logo_style_cannabis">Cannabis</string>
-    <string name="status_bar_logo_style_emoticon_cool">Emoticon cool</string>
-    <string name="status_bar_logo_style_emoticon_devil">Emoticon devil</string>
-    <string name="status_bar_logo_style_fire">Fire</string>
-    <string name="status_bar_logo_style_heart">Heart</string>
+    <string name="status_bar_logo_style_blackberry">Blackberry</string>
+    <string name="status_bar_logo_style_cannabis">Kenevir</string>
+    <string name="status_bar_logo_style_emoticon_cool">Havalı ifadesi</string>
+    <string name="status_bar_logo_style_emoticon_devil">Şeytan ifadesi</string>
+    <string name="status_bar_logo_style_fire">Ateş</string>
+    <string name="status_bar_logo_style_heart">Kalp</string>
     <string name="status_bar_logo_style_nike">Nike</string>
     <string name="status_bar_logo_style_pacman">Pac-man</string>
     <string name="status_bar_logo_style_puma">Puma</string>
     <string name="status_bar_logo_style_rog">ROG</string>
-    <string name="status_bar_logo_style_spiderman">Spider-Man</string>
-    <string name="status_bar_logo_style_superman">Superman</string>
+    <string name="status_bar_logo_style_spiderman">Örümcek Adam</string>
+    <string name="status_bar_logo_style_superman">Süpermen</string>
     <string name="status_bar_logo_style_windows">Windows</string>
     <string name="status_bar_logo_style_xbox">Xbox</string>
-    <string name="status_bar_logo_style_ghost">Ghost</string>
+    <string name="status_bar_logo_style_ghost">Hayalet</string>
     <string name="status_bar_logo_style_ninja">Ninja</string>
     <string name="status_bar_logo_style_robot">Robot</string>
-    <string name="status_bar_logo_style_ironman">Iron Man</string>
-    <string name="status_bar_logo_style_captain_america">Captain America</string>
-    <string name="status_bar_logo_style_flash">Flash</string>
+    <string name="status_bar_logo_style_ironman">Demir Adam</string>
+    <string name="status_bar_logo_style_captain_america">Kaptan Amerika</string>
+    <string name="status_bar_logo_style_flash">Flaş</string>
     <string name="status_bar_logo_style_tux">Tux</string>
     <string name="status_bar_logo_style_ubuntu">Ubuntu</string>
     <string name="status_bar_logo_style_mint">Linux Mint</string>
     <string name="status_bar_logo_style_matrixx">Matrixx</string>
     <string name="status_bar_logo_style_amogus">Amogus</string>
     <!-- Statusbar Padding -->
-    <string name="statusbar_extra_padding_category">Extra padding</string>
-    <string name="statusbar_extra_padding_start_title">Start padding</string>
-    <string name="statusbar_extra_padding_top_title">Top padding</string>
-    <string name="statusbar_extra_padding_end_title">End padding</string>
+    <string name="statusbar_extra_padding_category">Ek boşluk</string>
+    <string name="statusbar_extra_padding_start_title">Sol boşluk</string>
+    <string name="statusbar_extra_padding_top_title">Üst boşluk</string>
+    <string name="statusbar_extra_padding_end_title">Sağ boşluk</string>
     <!-- Quick settings -->
-    <string name="quick_settings_interface_category">Interface</string>
+    <string name="quick_settings_interface_category">Arayüz</string>
     <!-- QS Header -->
-    <string name="qs_header_image_title">Header image</string>
+    <string name="qs_header_image_title">Başlık görseli</string>
     <string name="qs_header_image_summary">Select QS background header image</string>
     <string name="qs_header_daylight_pack_title">Header image collection</string>
     <string name="qs_header_shadow_title">Header image shadow</string>
@@ -993,8 +993,8 @@ sensors are subject to hardware compatibility. Enabling sensors for ambient disp
     <string name="wallpaper_overlay_title">Wallpaper overlay</string>
     <string name="wallpaper_overlay_summary">Enable for Matrixx Launcher, disable for Pixel Launcher</string>
     <string name="quickswitch_not_supported">QuickSwitch is not supported; the system only has one launcher.</string>
-    <string name="quickswitch_footer_text">        Notes: \n\n
-        External launcher modules/modifications must be adapted to the QuickSwitch structure to function properly.
+    <string name="quickswitch_footer_text">        Notlar: \n\n
+        Harici başlatıcı modülleri/değişiklikleri düzgün çalışması için HızlıGeçiş yapısına uygun olmalıdır.
     </string>
     <!-- Shake Gestures -->
     <string name="shake_gestures_enabled_title">Shake Gestures</string>
